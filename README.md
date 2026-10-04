@@ -1,2 +1,3 @@
 # CSclub
-Pink Day — Breast Cancer Awareness site for Kuwait University
+
+Pink Day live site: https://yousefyacoub-ui.github.io/CSclub/#/home
